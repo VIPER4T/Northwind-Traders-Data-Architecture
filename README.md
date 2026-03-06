@@ -16,9 +16,9 @@ The interactive Power BI model yielded the following validated performance bench
 ## 📂 Strategic Deliverables
 I structured the documentation into two distinct tiers to serve both business leadership and technical management. *(Click the links below to view the PDF documents).*
 
-1. [**The Executive Stakeholder Brief**](.Documentation/Northwind%20Traders%20document%20for%20executive%20stakeholders.pdf) 
+1. [**The Executive Stakeholder Brief**](./Documentation/Northwind%20Traders%20document%20for%20executive%20stakeholders.pdf) 
    * A 1-page strategic summary detailing the $1.27M revenue drivers, the operational cost of 15%-25% discounting, and actionable recommendations for recovering margin on the $78.24 average freight cost.
-2. [**The Technical Architecture Guide**](./Documentation/Northwind_Technical_Architecture.pdf) 
+2. [**The Technical Architecture Guide**](./Documentation/Northwind%20Traders%20document%20for%20analysts.pdf) 
    * A comprehensive 9-page manual detailing the AAR and SDD frameworks, MySQL user provisioning, Star Schema implementation, and DAX logic (including `SUMX` iterator validation).
 
 ## 🛠️ Technical Stack & Methodology
