@@ -24,8 +24,8 @@ I structured the documentation into two distinct tiers to serve both business le
 ## 🛠️ Technical Stack & Methodology
 * **Database Management:** MySQL (Provisioned via root, executed via dedicated restricted user connection).
 * **Data Transformation:** SQL (DDL/DML), Power Query.
-* **Data Modeling:** Power BI (Optimized Star Schema: 1 Fact Table, 5 Dimension Tables).
-* **Analytical Frameworks:** Ask, Analyze, Recommend (AAR) & Solution Design Document (SDD).
+* **Data Modeling:** Power BI (Optimized Star Schema: 1 Fact Table, 6 Dimension Tables).
+* **Analytical Frameworks:** Ask, Advice, Recommend (AAR) priciple & Support, Discussion, Dependencies (SDD) frameworks.
 
 ## 🗂️ Repository Structure
 * `/Data` - Contains the raw CSV files used for the initial data load.
